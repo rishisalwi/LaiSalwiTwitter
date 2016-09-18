@@ -1,0 +1,83 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1464192388000,
+        "modified": 1464192388000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "TwitterDogs.xdk": {
+        "previousModTime": 1474163176780,
+        "modified": 1474163176780,
+        "seen": true,
+        "name": "TwitterDogs.xdk"
+      },
+      "TwitterDogs.xdke": {
+        "previousModTime": 1474179392208,
+        "modified": 1474179392208,
+        "seen": true,
+        "name": "TwitterDogs.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1474162862313,
+        "modified": 1474162862313,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1474178872996,
+        "modified": 1474178872996,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1474162862432,
+        "modified": 1474162862432,
+        "seen": true,
+        "name": "package.json"
+      },
+      "public/index.html": {
+        "previousModTime": 1474162862510,
+        "modified": 1474162862510,
+        "seen": true,
+        "name": "public/index.html"
+      },
+      "public/script.js": {
+        "previousModTime": 1474162862571,
+        "modified": 1474162862571,
+        "seen": true,
+        "name": "public/script.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1474162862628,
+        "modified": 1474162862628,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "TwitterDogs_2.0.0.xdke_bak": {
+        "previousModTime": 1474163176373,
+        "modified": 1474163176373,
+        "seen": true,
+        "name": "TwitterDogs_2.0.0.xdke_bak"
+      },
+      "TwitterDogs_2.0.0.xdk_bak": {
+        "previousModTime": 1474163176331,
+        "modified": 1474163176331,
+        "seen": true,
+        "name": "TwitterDogs_2.0.0.xdk_bak"
+      }
+    },
+    "boardFileStatus": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  }
+}
